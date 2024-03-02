@@ -1,1 +1,1 @@
-Simple 3D vector for cuda
+Simple 3D vector class for cuda.
